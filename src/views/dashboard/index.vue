@@ -6,7 +6,7 @@
         <span>相关链接</span>
       </div>
       <div class="list-body">
-        <el-tag>vue</el-tag>
+        <el-tag><a href="https://vuejs.org" target="_blank">vue</a></el-tag>
         <el-tag type="success">vue-admin-template</el-tag>
         <el-tag type="info"><a href="https://guthub.com/bypanghu/vue-admin" target="_blank">github</a></el-tag>
       </div>

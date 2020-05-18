@@ -44,7 +44,7 @@
           </span>
         </el-form-item>
         <span class="lost-password">忘记密码</span>
-        <el-button :loading="loading" type="primary" style="width:100%;margin-top:20px;" @click.native.prevent="handleLogin">登陆</el-button>
+        <el-button :loading="loading" type="primary" style="width:100%;margin-top:20px;" @click.native.prevent="handleLogin">登录</el-button>
 
       </el-form>
     </el-card>

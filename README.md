@@ -2,7 +2,7 @@
 
 > 这是一个美化的 vue admin 管理后台模板。它包含了 Element UI & axios 
 >& iconfont & permission control & lint。
-> 你可以点击浏览地址预览页面[http://uocu.bypanghu.xyz](点击预览)
+> 你可以点击浏览地址预览页面[点击预览](http://uocu.bypanghu.xyz)
 > 完整的admin组件请等待开发
 
 
