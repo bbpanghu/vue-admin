@@ -156,7 +156,7 @@ export const constantRoutes = [
     component: Layout,
     children: [
       {
-        path: 'https://uocu.bypanghu.xyz',
+        path: 'https://github.com/bypanghu/vue-admin',
         meta: { title: '外链', icon: 'link' }
       }
     ]
