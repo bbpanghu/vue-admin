@@ -2,7 +2,7 @@
   <div class="login-container">
     <i class="panel-bg" />
     <span class="app-title">{{this.$store.state.settings.apptitle}}</span>
-    <img src="https://github.com/bypanghu/assests/blob/master/home.gif" class="login-gif">
+    <img src="https://uocu.oss-cn-beijing.aliyuncs.com/home.gif" class="login-gif">
     <el-card class="login-card">
       <div slot="header" class="clearfix">
         <span>{{this.$store.state.settings.apptitle}}</span>

@@ -12,13 +12,13 @@ const users = {
   'admin-token': {
     roles: ['admin'],
     introduction: 'I am a super administrator',
-    avatar: 'https://raw.githubusercontent.com/bypanghu/assests/master/favicon.png',
+    avatar: 'https://uocu.oss-cn-beijing.aliyuncs.com/favicon.png',
     name: 'Super Admin'
   },
   'editor-token': {
     roles: ['editor'],
     introduction: 'I am an editor',
-    avatar: 'https://raw.githubusercontent.com/bypanghu/assests/master/favicon.png',
+    avatar: 'https://uocu.oss-cn-beijing.aliyuncs.com/favicon.png',
     name: 'Normal Editor'
   }
 }

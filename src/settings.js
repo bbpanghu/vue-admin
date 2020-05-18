@@ -15,5 +15,5 @@ module.exports = {
   sidebarLogo: true,
 
   apptitle: 'UOCU',
-  logo : 'https://raw.githubusercontent.com/bypanghu/assests/master/favicon.png'
+  logo : 'https://uocu.oss-cn-beijing.aliyuncs.com/favicon.png'
 }
